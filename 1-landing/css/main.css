@@ -1,0 +1,52 @@
+/* Tu CSS va aqui */
+/*GLOBAL*/
+a{
+	text-decoration: none;
+}
+*{
+	font-family: sans-serif;
+}
+
+/*MARGIN*/
+.mg-2{
+	margin-top: 2%;
+}
+.mg-5{
+	margin: 5%;
+}
+/*PADDING*/
+.pd-10{
+	padding: 10%;
+}
+.pd-5{
+	padding: 5%;
+}
+/*TEXT*/
+.txt-white{
+	color: white;
+}
+.txt-gray{
+	color:#9A999E;
+}
+
+/*BACKGROUND GOLORS*/
+.bg-gray{
+	background-color:#9A999E;
+}
+.bg{
+	background-color:#7F7E82 ;
+}
+/*NAV*/
+.logo{
+	width: 80%;
+	position: center;
+}
+a > li{
+	display:inline-block;
+	padding: 3%;
+}
+
+.boxes{
+	width: 90%;
+}
+
