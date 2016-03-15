@@ -1,0 +1,130 @@
+/*GLOBAL*/
+a{
+	text-decoration: none;
+}
+/*INDEX*/
+.brd-white{
+	border:2px solid white;
+}
+.w-60{
+	width:60%; 
+}
+
+.block{
+	display: inline-block;
+}
+/*TEXT*/
+.txt-white{
+	color: white;
+}
+.txt-cian{
+	color: #33A7FF;
+}
+.txt-blue{
+	color: #1C5C8C;
+}
+.ico-services{
+	font-size: 4em;
+}
+.ico-footer{
+	font-size: 2em;
+}
+/*backgrounds*/
+#back-section{
+	background-image: url("../image/sec-2.jpg");
+	background-repeat: no-repeat;
+	background-size: 100%;
+	background-position: center center;
+	height: 30em;
+	max-width: 100%;
+}
+#header{
+	background-image: url("../image/large.jpg");
+	background-repeat: no-repeat;
+	background-size: 100%;
+	max-width:100%;
+	height: auto;
+	background-position: center center;
+}
+.bg-gray{
+	background-color: #272D3B;
+}
+.bg-cian{
+	background-color: rgba(51,167,255,.6);
+}
+.bg-opacar{
+	background-color: rgba(0,0,0,.4);
+}
+/*menu*/
+a>li{
+	display: inline-block;
+}
+/*img*/
+.inside{
+	max-width:100%;
+	height:auto;
+}
+.inside2{
+	width:100%;
+	height:100%;
+}
+.img-logo{
+	width:60%;
+	height: auto; 
+}
+.opacar{
+	width: 106%;
+	height: 70%;
+}
+/*Padding*/
+.pt-2{
+	padding-top:2%; 
+}
+.pb-2{
+	padding-bottom:2%;
+	 }
+.pd-5{
+	padding: 5%;
+}
+.pl-5{
+	padding-left: 5%;
+}
+.pt-15{
+	padding-top: 15%;
+}
+.pl-15{
+	padding-left: 25%;
+}
+.pr-15{
+	padding-right: 15%;
+}
+.pb-25{
+	padding-bottom: 25%;
+}
+/*Margin*/
+.mg-0{
+
+}
+/*PAGINACONTACTO*/
+.border{
+	border: 1px solid gray;
+	border-top: 4px solid blue;
+}
+/*Background*/
+#Contact{
+	background-image: url("../image/large.jpg");
+	background-repeat: no-repeat;
+	background-size: 100%;
+	height: auto; 
+	background-position: center center;
+}
+.bg-white{
+	background-color: white;
+}
+/*TEXT*/
+.red{
+	color: red;
+}
+.times{
+	font-family: serif;
+}
